@@ -1,0 +1,1 @@
+Descomposición: Dividir un problema o tarea en partes más pequeñas y manejables para facilitar su comprensión y solución. Consiste en analizar un problema en sub-problemas más simples y resolver cada uno por separado antes de abordar el problema general.

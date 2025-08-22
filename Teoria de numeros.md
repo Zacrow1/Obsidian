@@ -1,0 +1,5 @@
+[[Aritmetica Modular]]
+[[Divisibilidad]]
+[[Congruencia]]
+[[Inverso Modular]]
+![[Pasted image 20240409121303.png]]
