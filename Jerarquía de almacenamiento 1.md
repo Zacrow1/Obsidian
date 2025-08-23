@@ -1,4 +1,4 @@
-[[1.2 Arquitectura Computacional]]
+[[1.2 Sistemas Operativos ]]
 
 ---
 

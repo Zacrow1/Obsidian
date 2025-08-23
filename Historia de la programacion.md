@@ -21,7 +21,7 @@ Año 1970:
 - Nace [[Pascal]] es utilizado por [[Apple]] para [[LISA]] y [[SKYPE]].
 
 Año 1972
-- Se crea [[C]], fuente de la creacion de muchos programas en la actualidad como [[C++]]
+- Se crea [[C#]], fuente de la creacion de muchos programas en la actualidad como [[C++]]
 - Utilizado para programar y crear [[Unix]] los sistemas operativos derivados de el son ([[Windows]] de [[Microsoft]], [[MacOS]] y [[Linux]]).
 
 Año 1983:

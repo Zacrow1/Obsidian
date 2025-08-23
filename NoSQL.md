@@ -1,0 +1,5 @@
+NoSQL significa Not Only SQL las bases de datos NoSQL usan un modelo de esquema flexible que admite una amplia variedad de datos no estructurados, como documentos, pares clave-valor, columnas amplias, gráficos entre otros. Almacenan datos en diferentes formatos, como documentos [[JSON]], clave-valor, grafos o datos sin estructura. Tiene una escalabilidad horizontal en donde se distribuyen en múltiples servidores, permitiendo un crecimiento lineal del rendimiento a medida que se añaden más nodos al sistema.
+
+Algunos ejemplos de bases de datos de  bases de datos NoSQL son [[MongoDB]] que almacena datos en documentos JSON, ideal para aplicaciones web y móviles y [[Cassandra ]]que es una base de datos distribuida y altamente escalable, utilizada para grandes volúmenes de datos.
+
+Las bases de datos NoSQL son ideales para entornos dinámicos, con grandes volúmenes de datos no estructurados y que requieren alta escalabilidad. Las bases de datos relacionales, por otro lado, ofrecen una estructura sólida y un lenguaje de consulta potente, siendo adecuadas para aplicaciones con datos estructurados y relaciones bien definidas.
